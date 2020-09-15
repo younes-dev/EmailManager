@@ -1,0 +1,52 @@
+###############################################################################
+#                          Generated on phpdocker.io                          #
+###############################################################################
+version: "3.1"
+services:
+
+
+  ##########################################
+  #                php Image               #
+  ##########################################
+  php-fpm:
+    build: phpdocker/php-fpm
+    container_name: EmailManager-php-fpm
+    working_dir: /application
+    volumes:
+      - .:/application
+      - ./phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/7.4/fpm/conf.d/99-overrides.ini
+
+  ##########################################
+  #               nginx Image              #
+  ##########################################
+  webserver:
+    image: nginx:alpine
+    container_name: EmailManager-webserver
+    working_dir: /application
+    volumes:
+      - .:/application
+      - ./phpdocker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - "8080:80"
+  #        - ${APP_PORT}:80
+
+
+  ##########################################
+  #              mariadb Image             #
+  ##########################################
+  mariadb:
+    image: mariadb:10.4
+    container_name: EmailManager-mariadb
+    working_dir: /application
+#    volumes:
+#      - .:/application
+    volumes:
+      -  /application:/var/lib/mysql:rw
+      - ./Data:/var/lib/mysql/EmailManager.sql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=EmailManager
+      - MYSQL_USER= root
+      - MYSQL_PASSWORD=
+    ports:
+      - "3307:3306"
