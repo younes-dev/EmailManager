@@ -1,0 +1,28 @@
+parameters:
+# ignore typeHints Errors
+    checkMissingIterableValueType: false
+
+# exclude file from Analyse phpStan
+#    excludes_analyse:
+#        - src/Form/*
+
+#    reportUnmatchedIgnoredErrors: false
+#    checkGenericClassInNonGenericObjectType: false
+
+
+
+
+#  CMD : vendor/bin/phpstan analyse --level 8 src
+#      : vendor/bin/phpstan analyse --level 7 src
+#      : vendor/bin/phpstan analyse --level 6 src
+#      : vendor/bin/phpstan analyse --level 5 src
+#      : vendor/bin/phpstan analyse --level 4 src
+#      : vendor/bin/phpstan analyse --level 3 src
+#      : vendor/bin/phpstan analyse --level 2 src
+#      : vendor/bin/phpstan analyse --level 1 src
+#      : vendor/bin/phpstan analyse --level 0 src
+
+# PhpStan.neon : https://github.com/slashfan/symfony-realworld-example-app/blob/worflow/phpstan.neon.dist
+# References   : http://www.inanzzz.com/index.php/post/tm3f/using-phpstan-for-static-code-analysis-within-php-applications
+# References   : http://www:inanzzz:com/index:php/post/paql/the-standards-and-practises-that-i-follow
+# References   : https://documentation.spryker.com/docs/phpstan-201903

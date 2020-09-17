@@ -1,15 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1be4a-bc7b-4f04-b45e-2f6dfbcb2406" name="Default Changelist" comment="" />
+    <list default="true" id="1fd1be4a-bc7b-4f04-b45e-2f6dfbcb2406" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.test" beforeDir="false" afterPath="$PROJECT_DIR$/.env.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EmailManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EmailManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/cache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/cache.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/dev/debug.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/dev/debug.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/dev/web_profiler.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/dev/web_profiler.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/doctrine.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/doctrine.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/mailer.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/mailer.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/notifier.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/notifier.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/prod/deprecations.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/prod/deprecations.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/prod/doctrine.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/prod/doctrine.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/prod/monolog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/prod/monolog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/prod/routing.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/prod/routing.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/routing.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/routing.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/sensio_framework_extra.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/sensio_framework_extra.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/monolog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/monolog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/validator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/validator.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/test/web_profiler.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/test/web_profiler.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/translation.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/translation.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/validator.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/validator.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes/annotations.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes/annotations.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes/dev/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes/dev/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes/dev/web_profiler.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes/dev/web_profiler.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php.ini" beforeDir="false" afterPath="$PROJECT_DIR$/php.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/translations/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PHPCSFixerBlackList">
+    <option name="filePaths">
+      <option value="$PROJECT_DIR$/src/Controller/EmailController.php" />
+    </option>
+  </component>
+  <component name="PHPCodeSnifferBlackList">
+    <option name="filePaths">
+      <option value="$PROJECT_DIR$/src/Controller/EmailController.php" />
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -113,9 +207,12 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
       <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hVxG5KS4nIvOrKJF5IsuvlUuhf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -123,9 +220,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -135,17 +241,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600109966768</updated>
-      <workItem from="1600109968006" duration="11902000" />
+      <workItem from="1600109968006" duration="48197000" />
+      <workItem from="1600277045506" duration="24478000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="757" y="431" width="444" height="242" key="#Composer" timestamp="1600110086130">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="757" y="431" width="444" height="242" key="#Composer/49.27.1871.1053@49.27.1871.1053" timestamp="1600110086130" />
+    <state x="613" y="234" width="1000" height="839" key="#Inspections" timestamp="1600343816188">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="613" y="234" width="1000" height="839" key="#Inspections/49.27.1871.1053@49.27.1871.1053" timestamp="1600343816188" />
+    <state x="637" y="210" width="824" height="684" key="#PHP_CS_Fixer" timestamp="1600279453947">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="637" y="210" width="824" height="684" key="#PHP_CS_Fixer/49.27.1871.1053@49.27.1871.1053" timestamp="1600279453947" />
+    <state x="886" y="459" width="187" height="186" key="#PHP_CS_Fixer_Ignored_Files" timestamp="1600292338367">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="886" y="459" width="187" height="186" key="#PHP_CS_Fixer_Ignored_Files/49.27.1871.1053@49.27.1871.1053" timestamp="1600292338367" />
+    <state x="637" y="210" width="824" height="684" key="#PHP_CodeSniffer" timestamp="1600279477476">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="637" y="210" width="824" height="684" key="#PHP_CodeSniffer/49.27.1871.1053@49.27.1871.1053" timestamp="1600279477476" />
+    <state x="891" y="356" width="629" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600281001150">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="891" y="356" width="629" height="396" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1871.1053@49.27.1871.1053" timestamp="1600281001150" />
+    <state x="792" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1600179484716">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="792" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/49.27.1871.1053@49.27.1871.1053" timestamp="1600179484716" />
+    <state x="772" y="314" width="414" height="476" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1600294731642">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="772" y="314" width="414" height="476" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/49.27.1871.1053@49.27.1871.1053" timestamp="1600294731642" />
+    <state x="720" y="394" width="518" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600346754812">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="720" y="394" width="518" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1871.1053@49.27.1871.1053" timestamp="1600346754812" />
+    <state x="416" y="100" width="1127" height="904" key="CommitChangelistDialog2" timestamp="1600290405106">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="416" y="100" width="1127" height="904" key="CommitChangelistDialog2/49.27.1871.1053@49.27.1871.1053" timestamp="1600290405106" />
+    <state x="718" y="467" width="523" height="171" key="ComposerInitDialogKey" timestamp="1600278376739">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="718" y="467" width="523" height="171" key="ComposerInitDialogKey/49.27.1871.1053@49.27.1871.1053" timestamp="1600278376739" />
+    <state x="832" y="295" width="424" height="513" key="FileChooserDialogImpl" timestamp="1600279517460">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="832" y="295" width="424" height="513" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1600279517460" />
+    <state x="523" y="272" width="913" height="561" key="NewPhpClassDialog" timestamp="1600179270183">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="523" y="272" width="913" height="561" key="NewPhpClassDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1600179270183" />
+    <state x="473" y="187" width="1163" height="730" key="SettingsEditor" timestamp="1600339174524">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="473" y="187" width="1163" height="730" key="SettingsEditor/49.27.1871.1053@49.27.1871.1053" timestamp="1600339174524" />
+    <state x="590" y="166" width="778" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600182419148">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="590" y="166" width="778" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/49.27.1871.1053@49.27.1871.1053" timestamp="1600182419148" />
+    <state x="902" y="293" width="743" height="622" key="find.popup" timestamp="1600294678789">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="902" y="293" width="743" height="622" key="find.popup/49.27.1871.1053@49.27.1871.1053" timestamp="1600294678789" />
+    <state x="829" y="273" width="672" height="678" key="search.everywhere.popup" timestamp="1600294721673">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="829" y="273" width="672" height="678" key="search.everywhere.popup/49.27.1871.1053@49.27.1871.1053" timestamp="1600294721673" />
   </component>
 </project>
